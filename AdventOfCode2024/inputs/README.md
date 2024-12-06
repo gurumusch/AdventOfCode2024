@@ -1,0 +1,1 @@
+Create input an input file with personal inputs here. File names should be eg. "day1.txt".
